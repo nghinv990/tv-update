@@ -1,0 +1,9 @@
+{
+  "latestVersionCode": 2,
+  "latestVersionName": "1.0.1",
+  "apkUrl": "https://github.com/nghinv990/tv-update/releases/download/v1.0.1/lumi-tv-2.apk",
+  "sha256": "473201791576df8572078a0d00d2dab87cb5af518272cde26fbf2b6f1f9cd706",
+  "releaseNotes": "Cải thiện YouTube playback, wake word/barge-in và thêm cấu hình OTA release signing.",
+  "force": false,
+  "signature": "ebq2ug92jBTZ1WP/x4ciwiJ37fulLUaiK2PwkwlBuE8e7AIDM0qYN9ziybwN9YzpTwOqnFiD1hvTetmpcGuF73mpOoZMBrynSGUowyTxrKbMrN9hpzrilpD5uDahj03pOo//PDSfVej+FpmyC2d6bo06NkSX6MYc2p3G8INMrAPNQVXwW2vGedY8Vj8j+4Q+rE/No8kME1tbh30vE0E8oE59FQDKdgnG1FaoSrEuyqP6koHN0FicBf+61vRDtiATBnhXXkHnxn6NDyjWhn0zubIBt4YMtade7LWEfLnBy8R0LmOvkPZbtLuwx4iDqV1Q8kzW8v3wp9Dzm+h7YiJhzQ=="
+}
