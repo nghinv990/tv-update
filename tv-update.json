@@ -1,0 +1,9 @@
+{
+  "latestVersionCode": 2,
+  "latestVersionName": "1.0.1",
+  "apkUrl": "https://ota.lumi.vn/lumi-box/releases/lumi-tv-2.apk",
+  "sha256": "9d2b952e41d13c128eadc05ffc9af7eb1e9fedba165b3d018756773149fae26b",
+  "releaseNotes": "Cải thiện YouTube playback, wake word/barge-in và thêm cấu hình OTA release signing.",
+  "force": false,
+  "signature": "RQdB8ng0tUKRAl25+e/cAuZ0Ih55xXBwoBUqUVvy76nDD6MVUgIKusVGWmFWBuXzmpVbBW+owXwTIAPqimYSDsA2BpAh+Yz3JU3H81StsTD61JpFDk2DaOtRNwn9em8cWhj4+he2AWpQ+9osAKRqp7uInYf0DTTqj/jmeX2qQ5ZIHor0fs4A36xZGPPVhqNmUlfSKFEGfb7HtSRV53hcH6ZgHpv7PNfK7sD8O15ihKIeW7ZDao5gtvvv2oCRn/WeykgjSyRm1Pz/86shKqZt1Zc/kTn0odAY+35RkWscLf08DWeYU/gyEXnQa0NIwkTCUYnzLY9bCVG9bxIJmE18gg=="
+}
